@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7Tmn2VQK)
 
 # Authors
-* Name:  Email: Saja Abu Maizar | ID:208072371 | sajaabu@edu.hac.ac.il
-* Name:  Email: Samah Rajabi | ID: 211558556 | samahra@edu.hac.ac.il
+* Name:  Email: Samah Rajabi | samahra@edu.hac.ac.il
+* Name:  Email: Saja Abu Maizar | sajaabu@edu.hac.ac.il
 
 
 # Explanations
